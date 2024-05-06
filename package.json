@@ -1,0 +1,14 @@
+{
+  "name": "@ZeDevGit/github_tokens",
+  "repository": {
+    "url": "git://github.com/ZeDevGit/github_tokens"},
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
